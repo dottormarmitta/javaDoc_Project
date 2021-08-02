@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.christianfries.montecarlo.example"},{"l":"com.christianfries.montecarlo.weighted.check"},{"l":"exercise1.check"},{"l":"exercise2"},{"l":"exercise3"}]
